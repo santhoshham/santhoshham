@@ -1,8 +1,11 @@
 # 💫 About Me:
 👋 Hey there! I'm a final-year student exploring the world of web development.
-🚀 Currently working on a cool React.js project
-💼 Skilled in the MERN stack (MongoDB, Express, React, Node)
-🌱 Growing my knowledge with Express.js & React Hooks
+
+🚀 Currently working on a cool React.js project.
+
+💼 Skilled in the MERN stack (MongoDB, Express, React, Node).
+
+🌱 Growing my knowledge with Express.js & React Hooks.
 
 
 ## 🌐 Socials:
