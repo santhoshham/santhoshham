@@ -1,5 +1,8 @@
 # 💫 About Me:
- I'm a final-year student passionate about web development and problem-solving. I'm currently working on a React.js project and building my skills in the MERN stack. I'm also learning Express.js and React Hooks to expand my knowledge.
+👋 Hey there! I'm a final-year student exploring the world of web development.
+🚀 Currently working on a cool React.js project
+💼 Skilled in the MERN stack (MongoDB, Express, React, Node)
+🌱 Growing my knowledge with Express.js & React Hooks
 
 
 ## 🌐 Socials:
