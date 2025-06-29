@@ -1,8 +1,12 @@
 # 💫 About Me:
 👋 Hello! I'm a passionate web developer with a strong foundation in the MERN stack (MongoDB, Express.js, React, Node.js).
+
 🎓 I recently completed my B.Tech in Information Technology in April 2024.
+
 🚀 Currently expanding my skills in Express.js and React Hooks to build scalable and efficient web applications.
+
 💡 I enjoy turning ideas into reality through clean, responsive, and user-focused interfaces.
+
 🤝 Open to collaboration and always eager to learn from others in the developer community.
 
 
