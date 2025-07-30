@@ -1,3 +1,6 @@
+# Santhosh A M
+<img src = 
+
 # 💫 About Me:
 👋 Hello! I'm a passionate web developer with a strong foundation in the MERN stack (MongoDB, Express.js, React, Node.js).<br>
 🎓 I recently completed my B.Tech in Information Technology in Bannari Amman Institute Of Technology.<br>
