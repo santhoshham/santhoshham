@@ -1,11 +1,8 @@
 # Santhosh A M
+<ing src ="./images/miyamuto.jpeg" width ="100%" />
 
-# 💫 About Me:
-👋 Hello! I'm a passionate web developer with a strong foundation in the MERN stack (MongoDB, Express.js, React, Node.js).<br>
-🎓 I recently completed my B.Tech in Information Technology in Bannari Amman Institute Of Technology.<br>
-🚀 Currently expanding my skills in Express.js and React Hooks to build scalable and efficient web applications.<br>
-💡 I enjoy turning ideas into reality through clean, responsive, and user-focused interfaces.<br>
-🤝 Open to collaboration and always eager to learn from others in the developer community.
+I'm a frontend developer dedicated to creating intuitive and seamless digital experiences. My passion lies in solving design challenges and transforming concepts into clean, functional interfaces. I believe the best websites are both beautiful and easy to use, and I'm always looking for new ways to build engaging user journeys.
+
 
 
 ## 🌐 Socials:
