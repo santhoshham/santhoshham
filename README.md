@@ -43,6 +43,8 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/santhoshham/santhoshham/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/santhoshham/santhoshham/output/github-snake.svg" />
 </picture>
+<br>
+<br>
 
-<p align="center">Preoccupied with a single leaf... you won't see the tree.<br> Preoccupied with a single tree... you'll miss the entire forest.</p>
+<p align="center"><em>Preoccupied with a single leaf... you won't see the tree.<br> Preoccupied with a single tree... you'll miss the entire forest.<em></p>
 
