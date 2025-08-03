@@ -1,5 +1,5 @@
 # Santhosh A M
-<img src ="./images/miyamuto.jpeg" width ="100%" />
+<img src ="./images/killua.jpeg" width ="100%" />
 
 <p align ="left"> I'm a frontend developer dedicated to creating intuitive and seamless digital experiences. My passion lies in solving design challenges and transforming concepts into clean, functional interfaces. I believe the best websites are both beautiful and easy to use, and I'm always looking for new ways to build engaging user journeys. </p>
 
