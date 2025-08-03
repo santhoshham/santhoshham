@@ -44,3 +44,5 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/santhoshham/santhoshham/output/github-snake.svg" />
 </picture>
 
+<p align="center">Preoccupied with a single leaf... you won't see the tree.<br> Preoccupied with a single tree... you'll miss the entire forest.</p>
+
