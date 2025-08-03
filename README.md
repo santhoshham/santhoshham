@@ -37,3 +37,10 @@
 <!--![Tailwindcss](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;&nbsp;&nbsp;-->
 
 </details>
+<br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/santhoshham/santhoshham/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/santhoshham/santhoshham/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/santhoshham/santhoshham/output/github-snake.svg" />
+</picture>
+
