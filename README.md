@@ -7,4 +7,8 @@
 ## You can reach me at : **<sandysanthoshgo007@gmail.com>**
 
 <a href="https://youtu.be/B3GE5PeBKeU?si=JkO7KC9iaXv3MeMl"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
+<br>
+<br>
+<details open>
+<summary><b> Skills and Tools</b>
+![HTML5](https://img.shields.io/badge/HTML5?style=for-the-badge&logo=html5&logoColor=white)&nbsp
