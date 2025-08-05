@@ -47,4 +47,4 @@
 <br>
 <br>
 
-<p align="center"><em>Preoccupied with a single leaf... you won't see the tree.<br> Preoccupied with a single tree... you'll miss the entire forest.<br> Don't be preoccupied with a single spot. See everything in its entirety effortlessly.<br> That is what it means to truly see<em></p>
+<p align="center"><em>Preoccupied with a single leaf... you won't see the tree.<br> Preoccupied with a single tree... you'll miss the entire forest.<br> Don't be preoccupied with a single spot. See everything in its entirety effortlessly.<br> That is what it means to truly see..<em></p>
